@@ -1,0 +1,32 @@
+{
+  "name": "hoshin_nextjs_challenge",
+  "version": "1.0.0",
+  "description": "ทดสอบทักษะ next.js, typescript และ css",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hoshin-Labs/nextjs_challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hoshin-Labs/nextjs_challenge/issues"
+  },
+  "homepage": "https://github.com/Hoshin-Labs/nextjs_challenge#readme",
+  "dependencies": {
+    "next": "^13.2.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.15.3",
+    "@types/react": "^18.0.28",
+    "typescript": "^5.0.2"
+  }
+}
