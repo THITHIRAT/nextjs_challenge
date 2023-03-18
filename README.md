@@ -23,4 +23,4 @@ Typescript is preferred, but if you're more comfortable writing in javascript pl
 
 You have one week to complete this challenge, once you're ready, please create a branch with your name and push it onto the github repository, and start a pull requeast.
 
-If you have any question while you're building this code, please don't hesitate to send me or Suttida an email at alf@hoshinalabs.com and Suttida@hoshinlabs.com " Thank you 🙏
+If you have any question while you're building this code, please don't hesitate to send me or Suttida an email at alf@hoshinlabs.com and Suttida@hoshinlabs.com " Thank you 🙏
