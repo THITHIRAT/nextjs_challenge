@@ -1,6 +1,6 @@
 const HomePage = () => {
   return (
-    <div>Welcome to Home Page</div>
+    <div>Welcome to Hoshin Labs</div>
   )
 }
 

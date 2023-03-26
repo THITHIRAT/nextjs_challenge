@@ -5,11 +5,13 @@ export type ReactHookFieldProps = React.DetailedHTMLProps<
   React.InputHTMLAttributes<HTMLInputElement>,
   HTMLInputElement
 > & {
+  type?: string;
   label?: string;
   name?: string;
 };
 
 const ReactHookField = ({
+  type="text",
   label,
   required = false,
   name = 'field',
@@ -27,7 +29,7 @@ const ReactHookField = ({
       )}
       <div className="relative">
         <input
-          type="text"
+          type={type}
           placeholder={otherProps?.placeholder || ''}
           className={`
             h-11 w-full appearance-none rounded-lg border-0 px-3.5 py-2.5 ring-1 placeholder:text-white focus-visible:outline-0
